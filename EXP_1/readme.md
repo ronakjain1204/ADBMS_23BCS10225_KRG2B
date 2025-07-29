@@ -49,8 +49,3 @@ This experiment demonstrates foundational and intermediate-level SQL skills: des
 1. Review the SQL scripts for schema design and data population.
 2. Understand the queries (with comments) to see how real-world information is retrieved and analyzed.
 3. Run the scripts in your SQL environment for practical experimentation.
-
-*This work showcases my understanding of relational database basics and serves as foundational practice for more advanced database tasks in ADBMS.*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54195100/8562476a-7659-4fb6-9e56-f877db92b935/Exp1.pdf
-[2] https://github.com/ronakjain1204/ADBMS_23BCS10225_KRG2B/tree/main/EXP_1
